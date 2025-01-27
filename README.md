@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm [Jerin George]
+# Hi there! 👋 I'm Jerin George
 
 ## 🚀 About Me
-Software Developer passionate about building impactful applications. I specialize in [Android ,React-Native,Java and Springboot].
+Software Developer passionate about building impactful applications. I specialize in Android ,React-Native,Java and Springboot.
 
 ## 💻 Tech Stack
 - **Languages:** [e.g., JavaScript, Python, Java]
