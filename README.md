@@ -1,15 +1,14 @@
 ### Hey! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jeringeorge98)
+
 
 My name in Jerin and i have close to 4 years of professional experience working in the Software Industry .
 
 - 👨‍💻 Projects: [Your GitHub Profile URL]
-- 📝 Blog: [Your Blog URL]
+- 📝 Blog: [https://medium.com/@jerringeorge439]
 - 💬 Ask me about **[Your Key Skills]**
-- 📫 Reach me at: **your-email@domain.com**
+- 📫 Reach me at: **jerringeorge1998@gmail.com*
 
 ---
 
@@ -28,14 +27,11 @@ _[Previous Company]. [Start Dates]_
 ---
 
 **EDUCATION**
-* **[Your Latest Degree]** - *University Name*
-* **[Previous Degree]** - *University Name*
+* **Masters in Software Engineering** - *University of Tartu*
+* **Bachelors in Computer Science** - *PES University*
 
 ---
 
-**CERTIFICATIONS**
-* [Certification Name](certification-url)
-* [Certification Name](certification-url)
 
 ---
 
@@ -76,5 +72,5 @@ _[Previous Company]. [Start Dates]_
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeringeorge98">
 </p>
