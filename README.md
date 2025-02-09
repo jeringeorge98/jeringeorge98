@@ -17,11 +17,11 @@ I'm an avid **Software Engineer** and a Masters Student in Software Engineering 
 **WORK EXPERIENCE**
 
 _University of Tartu (Research Intern), Tartu, Estonia | September 2024 - Present_
-* Improved Vue.js frontend application for real-time vehicle monitoring with maps integration
-* Implemented MQTT protocol for real-time communication between Python backend and frontend
-* Developed RESTful APIs using Python for autonomous vehicle data management
+* Developed a  Vue.js frontend application interface simulating an autonomous driving experience .
+* Implemented MQTT protocol for real-time communication between simulation script, Python backend and frontend.
+* Developed RESTful APIs using Python for autonomous vehicle data management.
 
-_Platform Commons Org, Android Developer | August 2020 - July 2023_
+_Platform Commons Org, Software Engineer | August 2020 - July 2023_
 * Developed mobile applications in Kotlin and Java used by 10,000+ users
 * Implemented multilingual support across 10 languages, increasing user engagement by 30%
 * Rewrote Kotlin native application in Flutter, expanding user base by 50x
@@ -38,9 +38,12 @@ _Adinav Labs, Software Developer Intern | July 2019 - March 2020_
 **LANGUAGES AND TOOLS**
 
 <p align="left">
+Here's your modified badge list, removing Flutter and adding Python and Java:
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
