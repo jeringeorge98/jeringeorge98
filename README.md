@@ -38,8 +38,6 @@ _Adinav Labs, Software Developer Intern | July 2019 - March 2020_
 **LANGUAGES AND TOOLS**
 
 <p align="left">
-Here's your modified badge list, removing Flutter and adding Python and Java:
-
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
