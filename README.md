@@ -51,6 +51,13 @@ _Adinav Labs, Software Developer Intern | July 2019 - March 2020_
 </p>
 
 ### Featured Projects
+<p>
+  <strong>
+    <a href="project-url">🎯 Url Shortener</a>
+  </strong>
+</p>
+<p>An application developed in JAVA Springboot for shortening the URLS.</p>
+
 
 <p>
   <strong>
@@ -66,12 +73,6 @@ _Adinav Labs, Software Developer Intern | July 2019 - March 2020_
 </p>
 <p>Android application developed in Kotlin to track jogging and running data.</p>
 
-<p>
-  <strong>
-    <a href="project-url">🎯 Namer-App</a>
-  </strong>
-</p>
-<p>Mobile application built with Flutter to display random names from an API.</p>
 
 ---
 
