@@ -10,7 +10,7 @@ I'm an avid **Software Engineer** and a Masters Student in Software Engineering 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jerringeorge439)
 - 💬 Ask me about **Android Development, Flutter, React.js, Node.js, Mobile Development**
 - 📫 Reach me at: **jerringeorge1998@gmail.com**
-- 🌍 Based in: **Tartu, Estonia**
+- 🌍 Based in: **Estonia**
 
 ---
 
