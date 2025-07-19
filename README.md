@@ -16,7 +16,12 @@ I'm an avid **Software Engineer** and a Masters Student in Software Engineering 
 
 **WORK EXPERIENCE**
 
-_University of Tartu (Research Intern), Tartu, Estonia | September 2024 - Present_
+_Selkirk Sport (Full Stack Software Engineer) ,Tallinn,Estonia | May 2025 - Present_
+* Responsible for building flutter mobile applications all the way from ideation to MVP ,and then scaling it to different users.
+* Writing RESTful end points in Typescript (Node.js) ,Integrating supabase Auth ,Integrating endpoints with Plantir Foundry.
+* Writing Unit,Integration and End to End test cases both on the front end and backend to ensure consistent and clean code.
+
+_University of Tartu (Research Intern), Tartu, Estonia | September 2024 - April 2024
 * Developed a  Vue.js frontend application interface simulating an autonomous driving experience .
 * Implemented MQTT protocol for real-time communication between simulation script, Python backend and frontend.
 * Developed RESTful APIs using Python for autonomous vehicle data management.
