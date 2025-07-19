@@ -33,11 +33,6 @@ _Platform Commons Org, Software Engineer | August 2020 - July 2023_
 * Achieved 90% test coverage using JUnit
 * Implemented Crashlytics error tracking, improving app stability by 25%
 
-_Adinav Labs, Software Developer Intern | July 2019 - March 2020_
-* Built Co-working Application reaching 5,000+ active users
-* Integrated Google Maps and Firebase Push Notifications
-* Developed using React.js, React Native, Node.js, and MongoDB
-
 ---
 
 **LANGUAGES AND TOOLS**
