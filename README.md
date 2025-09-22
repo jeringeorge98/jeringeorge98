@@ -8,7 +8,7 @@ I'm an avid **Software Engineer** and a Masters Graduate in Software Engineering
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/jeringeorge98)
 - 📝 I regularly write articles on [Medium](https://medium.com/@jerringeorge439)
-- 💬 Ask me about **Android Development, Flutter, React.js, Node.js, Mobile Development**
+- 💬 Ask me about **  Mobile Development,Web Development,Full Stack Development**
 - 📫 Reach me at: **jerringeorge1998@gmail.com**
 - 🌍 Based in: **Estonia**
 
