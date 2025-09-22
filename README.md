@@ -76,9 +76,6 @@ _Platform Commons Org, Software Engineer | August 2020 - July 2023_
 
 ---
 
-### 🏆 Achievements
-- Second Place in IEEE Hackathon for developing an ML model for posture correction
-- Third Place in College Talent Competition
 
 ---
 
