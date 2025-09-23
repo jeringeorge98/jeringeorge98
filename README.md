@@ -50,29 +50,6 @@ _Platform Commons Org, Software Engineer | August 2020 - July 2023_
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-### Featured Projects
-<p>
-  <strong>
-    <a href="project-url">🎯 Url Shortener</a>
-  </strong>
-</p>
-<p>An application developed in JAVA Springboot for shortening the URLS.</p>
-
-
-<p>
-  <strong>
-    <a href="project-url">📱 Currency Converter Application</a>
-  </strong>
-</p>
-<p>A mobile application written in Kotlin that helps you convert currencies with ease.</p>
-
-<p>
-  <strong>
-    <a href="project-url">🏃‍♂️ Running-Tracker-app</a>
-  </strong>
-</p>
-<p>Android application developed in Kotlin to track jogging and running data.</p>
-
 
 ---
 
