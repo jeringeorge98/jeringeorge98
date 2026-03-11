@@ -7,7 +7,6 @@
 I'm an avid **Software Engineer** and a Masters Graduate in Software Engineering at the University of Tartu. Passionate about building and scaling applications. Proven team player with expertise in collaborating with multiple teams.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/jeringeorge98)
-- 📝 I regularly write articles on [Medium](https://medium.com/@jerringeorge439)
 - 💬 Ask me about **  Mobile Development,Web Development,Full Stack Development**
 - 📫 Reach me at: **jerringeorge1998@gmail.com**
 - 🌍 Based in: **Estonia**
@@ -16,7 +15,7 @@ I'm an avid **Software Engineer** and a Masters Graduate in Software Engineering
 
 **WORK EXPERIENCE**
 
-_Selkirk Sport (Full Stack Software Engineer) ,Tallinn,Estonia | May 2025 - Present_
+_Selkirk Sport (Full Stack Software Engineer) ,Tallinn,Estonia | May 2025 - September 2025
 * Responsible for building flutter mobile applications all the way from ideation to MVP ,and then scaling it to different users.
 * Writing RESTful end points in Typescript (Node.js) ,Integrating supabase Auth ,Integrating endpoints with Plantir Foundry.
 * Writing Unit,Integration and End to End test cases both on the front end and backend to ensure consistent and clean code.
@@ -27,11 +26,9 @@ _University of Tartu (Research Intern), Tartu, Estonia | September 2024 - April 
 * Developed RESTful APIs using Python for autonomous vehicle data management.
 
 _Platform Commons Org, Software Engineer | August 2020 - July 2023_
-* Developed mobile applications in Kotlin and Java used by 10,000+ users
-* Implemented multilingual support across 10 languages, increasing user engagement by 30%
-* Rewrote Kotlin native application in Flutter, expanding user base by 50x
-* Achieved 90% test coverage using JUnit
-* Implemented Crashlytics error tracking, improving app stability by 25%
+* Developed RESTful APIS and micorservices in JAVA Springboot
+* Domain Driven Development for modeling the microservices
+* Containerized with docker.
 
 ---
 
