@@ -26,8 +26,9 @@ _University of Tartu (Research Intern), Tartu, Estonia | September 2024 - April 
 * Developed RESTful APIs using Python for autonomous vehicle data management.
 
 _Platform Commons Org, Software Engineer | August 2020 - July 2023_
-* Developed RESTful APIS and micorservices in JAVA Springboot
-* Domain Driven Development for modeling the microservices
+* Developed a Offline-First Architecthure based Native Android Application
+* Integrated RESTful APIS and micorservices in JAVA Springboot
+* Also helped in developing java microservices
 * Containerized with docker.
 
 ---
