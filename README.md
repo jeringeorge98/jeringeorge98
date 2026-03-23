@@ -4,7 +4,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jerringeorge439)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerringeorge1998@gmail.com)
 
-I'm an avid **Software Engineer** and a Masters Graduate in Software Engineering at the University of Tartu. Passionate about building and scaling applications. Proven team player with expertise in collaborating with multiple teams.Currently experimenting with Agentic Development and building custom Agent Workflows.
+I'm an avid **Software Engineer** and a Masters Graduate in Software Engineering at the University of Tartu. Passionate about building and scaling applications. Proven team player with expertise in collaborating with multiple teams. Currently experimenting with Agentic Development and building custom Agent Workflows.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/jeringeorge98)
 - 💬 Ask me about **  Mobile Development,Web Development,Full Stack Development**
